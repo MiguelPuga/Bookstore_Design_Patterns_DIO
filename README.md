@@ -7,7 +7,7 @@ Um projeto explorando os Padrões de Projetos:
 
 Os livros possuem: nome, autor, quantidade em estoque, e preço.
 
-# Execução
+## Execução
 Pelo console o usuário pode escolher entre:
 - Procurar por um livro (pelo nome ou pelo autor)
 - Listar os livros disponíveis (escolhendo a ordem por : nome, autor, ou preço)
